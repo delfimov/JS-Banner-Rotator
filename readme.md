@@ -13,7 +13,7 @@ jQuery(function($) {
 	banner.add('image', 'http://www.1tvrus.com', 'http://www.1tvrus.com/im/logos/channel1.png|Первый канал', 2);
 	banner.add('image', 'http://www.1tvrus.com', 'http://www.1tvrus.com/im/logos/channel1.png');
 	banner.add('html', 'http://www.telecafe.ru', '<span style="color:#f00;">Telecafe</span>');
-	banner.add('flash', 'http://www.1tvrus.com', '/brs/rosmolodezh.swf|/brs/rosmolodezh.gif|Росмолодеж', 3);
+	banner.add('flash', 'http://www.1tvrus.com', '/brs/rosmolodezh.swf|/brs/rosmolodezh.gif|Росмолодежь', 3);
 	banner.get();
 });
 ~~~~~~~~~~~~~~~~~~~~
